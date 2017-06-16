@@ -1,7 +1,7 @@
 {
-    "labId": "dne-dcip-ucsd-infrastructure-automation-custom-tasks-v01",
-    "title": "A Server by any other name - Creating and Utilizing UCS Director Custom Tasks.",
-    "slug": "This lab will get you creating UCS Director Custom Tasks and Utilizing them in Workflows.",
+    "labId": "dne-dcip-ucsd-infrastructure-automation-introduction-to-ucsd-v01",
+    "title": "Introduction to UCS Director",
+    "slug": "This UCS Director Learning Lab provides an overview of UCS Director. This lab will familiarize you with creating converged infrastructure and managing it.",
     "time": "20",
     "byod": true,
     "moduleOnly": true,
@@ -14,10 +14,12 @@
         "title": "1.md"
     }, {
         "title": "2.md"
+    }, {
+        "title": "3.md"
     }],
     "related": [{
-        "labId": "dne-dcip-ucsd-infrastructure-automation-introduction-to-ucsd-v01",
-        "title": "Introduction to UCS Director"
+        "labId": "dne-dcip-ucsd-infrastructure-automation-custom-tasks-v01",
+        "title": "A Server by any other name - Creating and Utilizing UCS Director Custom Tasks."
     },{
         "labId": "dne-dcip-ucsd-infrastructure-automation-api-workflow-manage-execute-v01",
         "title": "Using the UCS Director API - Query, Configure, Manage, Execute"

@@ -1,18 +1,14 @@
 {
     "labId": "dne-dcip-ucsd-infrastructure-automation-api-workflow-manage-execute-v01",
-    "title": "title",
+    "title": "Using the UCS Director API - Query, Configure, Manage, Execute",
     "slug": "whats it about",
-    "time": "30",
+    "time": "25",
+    "byod": true,
+    "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
-    }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "UCS Director"
     }],
     "files": [{
         "title": "1.md"
@@ -22,8 +18,11 @@
         "title": "3.md"
     }],
     "related": [{
-        "labId": "id-related",
-        "title": "title-related"
+        "labId": "dne-dcip-ucsd-infrastructure-automation-introduction-to-ucsd-v01",
+        "title": "Introduction to UCS Director"
+    },{
+        "labId": "dne-dcip-ucsd-infrastructure-automation-custom-tasks-v01",
+        "title": "A Server by any other name - Creating and Utilizing UCS Director Custom Tasks."
     }],
     "authors": [{
         "name": "John McDonough",
