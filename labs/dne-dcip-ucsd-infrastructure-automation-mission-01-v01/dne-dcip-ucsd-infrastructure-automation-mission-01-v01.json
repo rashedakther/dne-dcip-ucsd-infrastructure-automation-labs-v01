@@ -1,18 +1,12 @@
 {
     "labId": "dne-dcip-ucsd-infrastructure-automation-mission-01-v01",
-    "title": "title",
-    "slug": "whats it about",
+    "title": "Mission: Using the UCS Director REST API to Execute Workflows and View their Status",
+    "slug": "This Mission will have you import a Workflow use the REST API to Execute a the Workflow and View its' status.",
     "time": "30",
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
-    }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "UCS Director"
     }],
     "files": [{
         "title": "1.md"
@@ -20,14 +14,12 @@
         "title": "2.md"
     }, {
         "title": "3.md"
-    }],
-    "related": [{
-        "labId": "id-related",
-        "title": "title-related"
+    }, {
+        "title": "4.md"
     }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
     }],
-    "active": false
+    "active": true
 }
