@@ -2,7 +2,9 @@
     "labId": "dne-dcip-ucsd-infrastructure-automation-mission-01-v01",
     "title": "Mission: Using the UCS Director REST API to Execute Workflows and View their Status",
     "slug": "This Mission will have you import a Workflow use the REST API to Execute a the Workflow and View its' status.",
-    "time": "30",
+    "time": "25",
+    "byod": true,
+    "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
